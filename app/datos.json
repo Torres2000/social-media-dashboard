@@ -1,0 +1,110 @@
+{
+  "section1": [
+    {
+      "borderTop": "facebook",
+      "img": "./images/icon-facebook.svg",
+      "usuario": "@nathanf",
+      "total": "1987",
+      "estado": "Followers",
+      "icon": "./images/icon-up.svg",
+      "color": "LimeGreen",
+      "numero": "12"
+    },
+    {
+      "borderTop": "twitter",
+      "img": "./images/icon-twitter.svg",
+      "usuario": "@nathanf",
+      "total": "1044",
+      "estado": "Followers",
+      "icon": "./images/icon-up.svg",
+      "color": "LimeGreen",
+      "numero": "99"
+    },
+    {
+      "borderTop": "instagram",
+      "img": "./images/icon-instagram.svg",
+      "usuario": "@realnathanf",
+      "total": "11k",
+      "estado": "Followers",
+      "icon": "./images/icon-up.svg",
+      "color": "LimeGreen",
+      "numero": "1099"
+    },
+    {
+      "borderTop": "youtube",
+      "img": "./images/icon-youtube.svg",
+      "usuario": "Nathan F.",
+      "total": "8239",
+      "estado": "Subscribers",
+      "icon": "./images/icon-down.svg",
+      "color": "BrightRed",
+      "numero": "144"
+    }
+  ],
+  "section2": [
+    {
+      "img": "./images/icon-facebook.svg",
+      "info": "Page Views",
+      "total": "87",
+      "icon": "./images/icon-up.svg",
+      "color": "LimeGreen",
+      "numero": "3%"
+    },
+    {
+      "img": "./images/icon-facebook.svg",
+      "info": "Likes",
+      "total": "52",
+      "icon": "./images/icon-down.svg",
+      "color": "BrightRed",
+      "numero": "2%"
+    },
+    {
+      "img": "./images/icon-instagram.svg",
+      "info": "Likes",
+      "total": "5462",
+      "icon": "./images/icon-up.svg",
+      "color": "LimeGreen",
+      "numero": "2257%"
+    },
+    {
+      "img": "./images/icon-instagram.svg",
+      "info": "Profile Views",
+      "total": "52k",
+      "icon": "./images/icon-up.svg",
+      "color": "LimeGreen",
+      "numero": "1375%"
+    },
+    {
+      "img": "./images/icon-twitter.svg",
+      "info": "Retweets",
+      "total": "117",
+      "icon": "./images/icon-up.svg",
+      "color": "LimeGreen",
+      "numero": "303%"
+    },
+    {
+      "img": "./images/icon-twitter.svg",
+      "info": "Likes",
+      "total": "507",
+      "icon": "./images/icon-up.svg",
+      "color": "LimeGreen",
+      "numero": "553%"
+    },
+    {
+      "img": "./images/icon-youtube.svg",
+      "info": "Likes",
+      "total": "107",
+      "icon": "./images/icon-down.svg",
+      "color": "BrightRed",
+      "numero": "19%"
+    },
+    {
+      "img": "./images/icon-youtube.svg",
+      "info": "Total Views",
+      "total": "1407",
+      "icon": "./images/icon-down.svg",
+      "color": "BrightRed",
+      "numero": "12%"
+    }
+  ]
+}
