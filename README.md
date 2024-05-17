@@ -33,7 +33,7 @@ Los usuarios deberían poder:
 ### Enlaces
 
 - URL de la solución: [https://github.com/Torres2000/social-media-dashboard](https://github.com/Torres2000/social-media-dashboard)
-- URL del sitio en vivo: [https://space-tourism-space-web-site.netlify.app/](https://space-tourism-space-web-site.netlify.app/)
+- URL del sitio en vivo: [https://social-media-dashboard-site-web.netlify.app/](https://social-media-dashboard-site-web.netlify.app/)
 
 ## Mi proceso
 
