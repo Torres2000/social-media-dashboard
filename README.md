@@ -52,7 +52,7 @@ Los usuarios deberían poder:
 
 ## Autor
 
-- Sitio web - [Pedro Torres](https://portafoliowebdevjose.netlify.app)
+- Sitio web - [Pedro Torres](https://pedro-j-torres.vercel.app/)
 - Mentor de frontend - [@Torres2000](https://www.frontendmentor.io/profile/Torres2000)
 
 ## Agradecimientos
